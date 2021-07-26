@@ -22,6 +22,7 @@
              android:hint="User Name"
              android:textSize="30dp"
             android:id="@+id/edtUsername"
+
             />
 
          <EditText
